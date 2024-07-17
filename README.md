@@ -5,6 +5,10 @@ This project implements an English to French machine translation system using Ga
 
 # Features
 Encoder-Decoder architecture with GRUs
+
 Training and inference scripts
+
 Preprocessing utilities for preparing the dataset
+
 Model evaluation metrics
+
